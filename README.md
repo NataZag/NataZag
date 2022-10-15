@@ -4,7 +4,7 @@ About me
 
 Hard Skills
 
-![SDLC/STLC](https://img.shields.io/badge/-SDLC/STLC-important?style=for-the-badge&logo=FamPay&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-important?style=for-the-badge&logo=Linux&logoColor=white)
 
 Languages
 
