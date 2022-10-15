@@ -3,7 +3,7 @@
 About me
 
 ###Hard Skills
-![TestingTheory](https://img.shields.io/badge/-TestingTheory-9cf?style=for-the-badge&logo=appveyor)
+![SDLC/STLC](https://img.shields.io/badge/-SDLC/STLC-9cf?style=for-the-badge&logo=qa)
 
 Languages
 
