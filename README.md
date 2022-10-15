@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/NataZag/NataZag/blob/main/assets/QA_logo.jpg)](https://natazag.github.io/)
 
 About me
 
