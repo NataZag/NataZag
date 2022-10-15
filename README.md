@@ -4,14 +4,14 @@ About me
 
 Hard Skills
 
-![GIT](https://img.shields.io/badge/-GIT-important?style=for-the-badge&logo=git&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-important?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![Devtools](https://img.shields.io/badge/-Devtools-important?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Jira](https://img.shields.io/badge/-JIRA-important?style=for-the-badge&logo=jira&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-important?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-important?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-important?style=for-the-badge&logo=swagger&logoColor=white)
-![Fiddler](https://img.shields.io/badge/-Fiddler-important?style=for-the-badge&logo=Fiddler&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-darkgrey?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-darkgrey?style=for-the-badge&logo=VirtualBox&logoColor=red)
+![Devtools](https://img.shields.io/badge/-Devtools-darkgrey?style=for-the-badge&logo=GoogleChrome&logoColor=green)
+![Jira](https://img.shields.io/badge/-JIRA-darkgrey?style=for-the-badge&logo=jira&logoColor=orange)
+![SQL](https://img.shields.io/badge/-SQL-darkgrey?style=for-the-badge&logo=PostgreSQL&logoColor=violet)
+![Postman](https://img.shields.io/badge/-Postman-darkgrey?style=for-the-badge&logo=postman&logoColor=lightgreen)
+![Swagger](https://img.shields.io/badge/-Swagger-darkgrey?style=for-the-badge&logo=swagger&logoColor=lightblue)
+![Fiddler](https://img.shields.io/badge/-Fiddler-darkgrey?style=for-the-badge&logo=Fiddler&logoColor=white)
 
 Languages
 
