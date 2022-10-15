@@ -2,8 +2,9 @@
 
 About me
 
-###Hard Skills
-![SDLC/STLC](https://img.shields.io/badge/-SDLC/STLC-9cf?style=for-the-badge&logo=FamPay&logoColor=white)
+Hard Skills
+
+![SDLC/STLC](https://img.shields.io/badge/-SDLC/STLC-important?style=for-the-badge&logo=FamPay&logoColor=white)
 
 Languages
 
