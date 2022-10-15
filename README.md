@@ -12,7 +12,6 @@ Hard Skills
 ![Postman](https://img.shields.io/badge/-Postman-important?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-important?style=for-the-badge&logo=swagger&logoColor=white)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-important?style=for-the-badge&logo=Fiddler&logoColor=white)
-![Charles](https://img.shields.io/badge/-Charles-important?style=for-the-badge&logo=Charles&logoColor=white)
 
 Languages
 
