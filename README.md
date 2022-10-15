@@ -2,7 +2,7 @@
 
 About me
 
-Hard Skills
+###Hard Skills
 ![Testing theory](https://img.shields.io/badge/Testing theory-9cf?style=for-the-badge&logo=appveyor)
 
 Languages
