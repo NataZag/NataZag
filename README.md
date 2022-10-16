@@ -32,7 +32,17 @@ Comfortable working in a multicultural environment.
 [![SQL](https://img.shields.io/badge/-SQL-2F4F4F?style=for-the-badge&logo=PostgreSQL&logoColor=00e3e3)](https://github.com/NataZag/Git_HW/tree/SQL)
 [![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=lightgreen)](https://github.com/NataZag/Git_HW/tree/Postman)
 [![Swagger](https://img.shields.io/badge/-Swagger-2F4F4F?style=for-the-badge&logo=swagger&logoColor=lightblue)](#)
-[![Fiddler](https://img.shields.io/badge/-Fiddler-2F4F4F?style=for-the-badge&logo=Fandango&logoColor=00e331)](https://github.com/NataZag/Git_HW/tree/Charles)
+[![Fiddler](https://img.shields.io/badge/-Fiddler-2F4F4F?style=for-the-badge&logo=Fandango&logoColor=00e331)](#)
+
+[![Charles](https://img.shields.io/badge/-Fiddler-2F4F4F?style=for-the-badge&logo=Celery&logoColor=00e331)](https://github.com/NataZag/Git_HW/tree/Charles)
+[![HTML](https://img.shields.io/badge/-HTML5-2F4F4F?style=for-the-badge&logo=HTML5&logoColor=E34F26)](#)
+[![CSS](https://img.shields.io/badge/-CSS3-2F4F4F?style=for-the-badge&logo=CSS3&logoColor=48B0F1)](#)
+[![HTTP](https://img.shields.io/badge/-HTTP-2F4F4F?style=for-the-badge&logo=HTTPie&logoColor=00D735)](#)
+[![JSON](https://img.shields.io/badge/-JSON-2F4F4F?style=for-the-badge&logo=JSON&logoColor=BE95FF)](#)
+[![XML](https://img.shields.io/badge/-XML-2F4F4F?style=for-the-badge&logo=Experts_Exchange&logoColor=FFDA44)](#)
+[![Linux](https://img.shields.io/badge/-Linux-2F4F4F?style=for-the-badge&logo=Linux&logoColor=FCC624)](#)
+[![Windows](https://img.shields.io/badge/-Windows-2F4F4F?style=for-the-badge&logo=Windows&logoColor=0078D6)](#)
+
 
 ## Languages
 
@@ -53,12 +63,10 @@ Belarusian: Native
 
 ### Internships
 #### A1QA (JUL 2022 - SEP 2022)
-
 Analyzing product requirements. Creating testing documentation using testing techniques(English/Russian languages). Web-applications functional, UI, Usability, Cross-platform testing. Usage of Jira, Virtual Box, Devtools, Postman and Swagger, Fiddler, SQL. Participation in daily meetings
 
 ### Studying Projects
 #### Vadim Ksendzov (APR 2022 - JUL 2022)
-
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
 ### Freelance
@@ -69,17 +77,14 @@ Analyzing product requirements. Creating testing documentation using testing tec
 
 ### Social Media Evaluator
 #### Lionbridge (MAY 2021 - JUN 2022)
-
 Part time, remote work. Evaluation of Instagram and Facebook ads.
 
 ### Online-store Administrator
 #### Music company BOOM (2010 - 2014)
-
 Remote work. Shop.by platform. Goods and priceses database updating. Running scripts with 1C. Advertisement banners creation. SEO.
 
 ### Shop Manager
 #### Music company BOOM (2006 - 2009)
-
 Clients counseling, courier deliveries management, sale of musical instruments and equipment, checkout reports.
 
 ![](https://komarev.com/ghpvc/?username=your-github-NataZag)
