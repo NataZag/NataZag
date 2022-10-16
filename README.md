@@ -22,12 +22,35 @@ A hardworking, reliable, meticulous QA Engineer is looking for the company of he
 [![Swagger](https://img.shields.io/badge/-Swagger-2F4F4F?style=for-the-badge&logo=swagger&logoColor=lightblue)](#)
 [![Fiddler](https://img.shields.io/badge/-Fiddler-2F4F4F?style=for-the-badge&logo=Fandango&logoColor=00e331)](https://github.com/NataZag/Git_HW/tree/Charles)
 
-Languages
+## Languages
+
+English: Intermediate (B1)   
+Russian: Native     
+Belarusian: Native     
 
 Certificates
 
+[![QA](https://img.shields.io/badge/-QA-2F4F4F?style=for-the-badge&logo=Quantcast&logoColor=orange)](https://raw.githubusercontent.com/NataZag/Resume/main/assets/images/projects/QA_big.jpg)
+[![SQL_Codecademy](https://img.shields.io/badge/-SQL_Codecademy-2F4F4F?style=for-the-badge&logo=SQLite&logoColor=green)](https://raw.githubusercontent.com/NataZag/natazag.github.io/main/assets/images/projects/codecademy_big.png)
+[![SQL_Sololearn](https://img.shields.io/badge/-SQL_Sololearn-2F4F4F?style=for-the-badge&logo=SQLite&logoColor=green)](https://github.com/NataZag/Git_HW/tree/Devtools)
+[![Jira](https://img.shields.io/badge/-JIRA-2F4F4F?style=for-the-badge&logo=jira&logoColor=orange)](https://raw.githubusercontent.com/NataZag/natazag.github.io/main/assets/images/projects/Jira.jpg)
+[![English](https://img.shields.io/badge/-English-2F4F4F?style=for-the-badge&logo=Etsy&logoColor=00e3e3)](https://raw.githubusercontent.com/NataZag/Resume/main/assets/images/projects/EF_SET_big.jpg)
+[![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=lightgreen)](https://github.com/NataZag/natazag.github.io/blob/main/assets/images/projects/Postman_Stepik_big.png)
+
 Soft Skills
 
-Hands-on Experience
+## Hands-on Experience
+
+### Internships
+A1QA (07.2022 - 09. 2022)
+Analyzing product requirements. Creating testing documentation using testing techniques(English/Russian languages). Web-applications functional, UI, Usability, Cross-platform testing. Usage of Jira, Virtual Box, Devtools, Postman and Swagger, Fiddler, SQL. Participation in daily meetings
+
+### Studying Projects
+Vadim Ksendzov (04.2022 - 07. 2022)
+Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
+
+### Freelance
+Utest (04.2021 - 02. 2022)
+Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
 Work Experience
