@@ -29,18 +29,20 @@ Comfortable working in a multicultural environment.
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-2F4F4F?style=for-the-badge&logo=VirtualBox&logoColor=orange)](#)
 [![Devtools](https://img.shields.io/badge/-Devtools-2F4F4F?style=for-the-badge&logo=GoogleChrome&logoColor=green)](https://github.com/NataZag/Git_HW/tree/Devtools)
 [![Jira](https://img.shields.io/badge/-JIRA-2F4F4F?style=for-the-badge&logo=jira&logoColor=orange)](https://raw.githubusercontent.com/NataZag/natazag.github.io/main/assets/images/projects/Jira.jpg)
-[![SQL](https://img.shields.io/badge/-SQL-2F4F4F?style=for-the-badge&logo=PostgreSQL&logoColor=00e3e3)](https://github.com/NataZag/Git_HW/tree/SQL)
 [![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=lightgreen)](https://github.com/NataZag/Git_HW/tree/Postman)
 [![Swagger](https://img.shields.io/badge/-Swagger-2F4F4F?style=for-the-badge&logo=swagger&logoColor=lightblue)](#)
 [![Fiddler](https://img.shields.io/badge/-Fiddler-2F4F4F?style=for-the-badge&logo=Fandango&logoColor=00e331)](#)
+[![Charles](https://img.shields.io/badge/-Charles-2F4F4F?style=for-the-badge&logo=Celery&logoColor=00e331)](https://github.com/NataZag/Git_HW/tree/Charles)
 
-[![Charles](https://img.shields.io/badge/-Fiddler-2F4F4F?style=for-the-badge&logo=Celery&logoColor=00e331)](https://github.com/NataZag/Git_HW/tree/Charles)
+
+[![SQL](https://img.shields.io/badge/-SQL-2F4F4F?style=for-the-badge&logo=PostgreSQL&logoColor=00e3e3)](https://github.com/NataZag/Git_HW/tree/SQL)
 [![HTML](https://img.shields.io/badge/-HTML5-2F4F4F?style=for-the-badge&logo=HTML5&logoColor=E34F26)](#)
 [![CSS](https://img.shields.io/badge/-CSS3-2F4F4F?style=for-the-badge&logo=CSS3&logoColor=48B0F1)](#)
 [![HTTP](https://img.shields.io/badge/-HTTP-2F4F4F?style=for-the-badge&logo=HTTPie&logoColor=00D735)](#)
 [![JSON](https://img.shields.io/badge/-JSON-2F4F4F?style=for-the-badge&logo=JSON&logoColor=BE95FF)](#)
 [![XML](https://img.shields.io/badge/-XML-2F4F4F?style=for-the-badge&logo=Experts_Exchange&logoColor=FFDA44)](#)
 [![Linux](https://img.shields.io/badge/-Linux-2F4F4F?style=for-the-badge&logo=Linux&logoColor=FCC624)](#)
+[![Windows](https://img.shields.io/badge/-Windows-2F4F4F?style=for-the-badge&logo=Windows&logoColor=0078D6)](#)
 [![Windows](https://img.shields.io/badge/-Windows-2F4F4F?style=for-the-badge&logo=Windows&logoColor=0078D6)](#)
 
 
