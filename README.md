@@ -28,7 +28,7 @@ English: Intermediate (B1)
 Russian: Native     
 Belarusian: Native     
 
-Certificates
+## Certificates
 
 [![QA](https://img.shields.io/badge/-QA-2F4F4F?style=for-the-badge&logo=Quantcast&logoColor=orange)](https://raw.githubusercontent.com/NataZag/Resume/main/assets/images/projects/QA_big.jpg)
 [![SQL_Codecademy](https://img.shields.io/badge/-SQL_Codecademy-2F4F4F?style=for-the-badge&logo=SQLite&logoColor=green)](https://raw.githubusercontent.com/NataZag/natazag.github.io/main/assets/images/projects/codecademy_big.png)
@@ -42,15 +42,15 @@ Soft Skills
 ## Hands-on Experience
 
 ### Internships
-A1QA (07.2022 - 09. 2022)
+A1QA (JUL 2022 - SEP 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques(English/Russian languages). Web-applications functional, UI, Usability, Cross-platform testing. Usage of Jira, Virtual Box, Devtools, Postman and Swagger, Fiddler, SQL. Participation in daily meetings
 
 ### Studying Projects
-Vadim Ksendzov (04.2022 - 07. 2022)
+Vadim Ksendzov (APR 2022 - JUL 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
 ### Freelance
-Utest (04.2021 - 02. 2022)
+Utest (APR 2021 - FEB 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
 Work Experience
