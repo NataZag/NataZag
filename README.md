@@ -52,12 +52,12 @@ Belarusian: Native
 ## Hands-on Experience
 
 ### Internships
-A1QA (JUL 2022 - SEP 2022)
+#### A1QA (JUL 2022 - SEP 2022)
 
 Analyzing product requirements. Creating testing documentation using testing techniques(English/Russian languages). Web-applications functional, UI, Usability, Cross-platform testing. Usage of Jira, Virtual Box, Devtools, Postman and Swagger, Fiddler, SQL. Participation in daily meetings
 
 ### Studying Projects
-Vadim Ksendzov (APR 2022 - JUL 2022)
+#### Vadim Ksendzov (APR 2022 - JUL 2022)
 
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
