@@ -63,36 +63,38 @@ Belarusian: Native
 
 ## QA Work Experience
 ### SmartApp (DEC 2022 - current time)
-Requirements Analysis
 
-Test Documentation Creation 
+- Requirements Analysis
 
-Functional Testing of WEB Applications 
+- Test Documentation Creation 
 
-UI/UX Design Testing
+- Functional Testing of WEB Applications 
 
-Testing of Payment Systems 
+- UI/UX Design Testing
 
-REST/SOAP API Testing
+- Testing of Payment Systems 
 
-Network Traffic Capture
+- REST/SOAP API Testing
 
-Database Verification 
+- Network Traffic Capture
 
-Performance/Load Testing
+- Database Verification 
 
-SEO Testing
+- Performance/Load Testing
+
+- SEO Testing
+
+## Freelance
+### Utest (APR 2021 - FEB 2022)
+Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
+
 
 ## Internships
-### A1QA (JUN 2022 - SEPT 2022)
+#### A1QA (JUN 2022 - SEPT 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques(English/Russian languages). Web-applications functional, UI, Usability, Cross-platform testing. Usage of Jira, Virtual Box, Devtools, Postman and Swagger, Fiddler, SQL. Participation in daily meetings
 
 ## Studying Projects
-### Vadim Ksendzov (APR 2022 - JUL 2022)
-Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
-
-### Freelance
-#### Utest (APR 2021 - FEB 2022)
+#### Vadim Ksendzov (APR 2022 - JUL 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
 ### Work Experience
