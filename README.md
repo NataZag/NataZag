@@ -99,15 +99,15 @@ Analyzing product requirements. Creating testing documentation using testing tec
 
 ## Work Experience
 #### Social Media Evaluator
-#### Lionbridge (MAY 2021 - JUN 2022)
+##### Lionbridge (MAY 2021 - JUN 2022)
 Part time, remote work. Evaluation of Instagram and Facebook ads.
 
 #### Online-store Administrator
-#### Music company BOOM (2010 - 2014)
+##### Music company BOOM (2010 - 2014)
 Remote work. Shop.by platform. Goods and priceses database updating. Running scripts with 1C. Advertisement banners creation. SEO.
 
 #### Shop Manager
-#### Music company BOOM (2006 - 2009)
+##### Music company BOOM (2006 - 2009)
 Clients counseling, courier deliveries management, sale of musical instruments and equipment, checkout reports.
 
 ![](https://komarev.com/ghpvc/?username=your-github-NataZag)
