@@ -97,7 +97,8 @@ Analyzing product requirements. Creating testing documentation using testing tec
 #### Vadim Ksendzov (APR 2022 - JUL 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
-## Work Experience
+<details>
+<summary>## Work Experience</summary>
 #### Social Media Evaluator
 ##### Lionbridge (MAY 2021 - JUN 2022)
 Part time, remote work. Evaluation of Instagram and Facebook ads.
@@ -109,5 +110,6 @@ Remote work. Shop.by platform. Goods and priceses database updating. Running scr
 #### Shop Manager
 ##### Music company BOOM (2006 - 2009)
 Clients counseling, courier deliveries management, sale of musical instruments and equipment, checkout reports.
+</details>
 
 ![](https://komarev.com/ghpvc/?username=your-github-NataZag)
