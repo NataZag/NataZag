@@ -65,14 +65,23 @@ Belarusian: Native
 ### Work Experience
 #### SmartApp (DEC 2022 - current time)
 Requirements Analysis
+
 Test Documentation Creation 
+
 Functional Testing of WEB Applications 
+
 UI/UX Design Testing
+
 Testing of Payment Systems 
+
 REST/SOAP API Testing
+
 Network Traffic Capture
+
 Database Verification 
+
 Performance/Load Testing
+
 SEO Testing
 
 ### Internships
