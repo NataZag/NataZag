@@ -98,7 +98,8 @@ Analyzing product requirements. Creating testing documentation using testing tec
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
 <details>
-<summary>## Work Experience</summary>
+<summary>Work Experience</summary>
+  
 #### Social Media Evaluator
 ##### Lionbridge (MAY 2021 - JUN 2022)
 Part time, remote work. Evaluation of Instagram and Facebook ads.
