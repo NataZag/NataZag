@@ -25,14 +25,14 @@ Comfortable working in a multicultural environment.
 
 ## Hard Skills
 
-[![GIT](https://img.shields.io/badge/-GIT-2F4F4F?style=for-the-badge&logo=git&logoColor=yellow)](https://raw.githubusercontent.com/NataZag/Git_HW/main/DZ_GIT2_Kisel-Zagoryanskaya.txt)
+[![GIT](https://img.shields.io/badge/-GIT-2F4F4F?style=for-the-badge&logo=git&logoColor=yellow)](#)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-2F4F4F?style=for-the-badge&logo=VirtualBox&logoColor=orange)](#)
-[![Devtools](https://img.shields.io/badge/-Devtools-2F4F4F?style=for-the-badge&logo=GoogleChrome&logoColor=green)](https://github.com/NataZag/Git_HW/tree/Devtools)
-[![Jira](https://img.shields.io/badge/-JIRA-2F4F4F?style=for-the-badge&logo=jira&logoColor=orange)](https://raw.githubusercontent.com/NataZag/natazag.github.io/main/assets/images/projects/Jira.jpg)
-[![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=lightgreen)](https://github.com/NataZag/Git_HW/tree/Postman)
+[![Devtools](https://img.shields.io/badge/-Devtools-2F4F4F?style=for-the-badge&logo=GoogleChrome&logoColor=green)](#)
+[![Jira](https://img.shields.io/badge/-JIRA-2F4F4F?style=for-the-badge&logo=jira&logoColor=orange)](#)
+[![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=lightgreen)](#)
 [![Swagger](https://img.shields.io/badge/-Swagger-2F4F4F?style=for-the-badge&logo=swagger&logoColor=lightblue)](#)
 [![Fiddler](https://img.shields.io/badge/-Fiddler-2F4F4F?style=for-the-badge&logo=Fandango&logoColor=00e331)](#)
-[![Charles](https://img.shields.io/badge/-Charles-2F4F4F?style=for-the-badge&logo=Celery&logoColor=06B6D4)](https://github.com/NataZag/Git_HW/tree/Charles)
+[![Charles](https://img.shields.io/badge/-Charles-2F4F4F?style=for-the-badge&logo=Celery&logoColor=06B6D4)](#)
 
 
 [![Documentation](https://img.shields.io/badge/-Documentation-2F4F4F?style=for-the-badge&logo=Todoist&logoColor=FF4B4B)](#)
@@ -61,9 +61,8 @@ Belarusian: Native
 [![English](https://img.shields.io/badge/-English-2F4F4F?style=for-the-badge&logo=Etsy&logoColor=00e3e3)](https://raw.githubusercontent.com/NataZag/Resume/main/assets/images/projects/EF_SET_big.jpg)
 [![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=lightgreen)](https://github.com/NataZag/natazag.github.io/blob/main/assets/images/projects/Postman_Stepik_big.png)
 
-## Hands-on Experience
-### Work Experience
-#### SmartApp (DEC 2022 - current time)
+## Work Experience
+### SmartApp (DEC 2022 - current time)
 Requirements Analysis
 
 Test Documentation Creation 
@@ -84,12 +83,12 @@ Performance/Load Testing
 
 SEO Testing
 
-### Internships
-#### A1QA (JUN 2022 - SEPT 2022)
+## Internships
+### A1QA (JUN 2022 - SEPT 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques(English/Russian languages). Web-applications functional, UI, Usability, Cross-platform testing. Usage of Jira, Virtual Box, Devtools, Postman and Swagger, Fiddler, SQL. Participation in daily meetings
 
-### Studying Projects
-#### Vadim Ksendzov (APR 2022 - JUL 2022)
+## Studying Projects
+### Vadim Ksendzov (APR 2022 - JUL 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
 ### Freelance
