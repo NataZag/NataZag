@@ -97,7 +97,7 @@ Analyzing product requirements. Creating testing documentation using testing tec
 #### Vadim Ksendzov (APR 2022 - JUL 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
-### Work Experience
+## Work Experience
 #### Social Media Evaluator
 #### Lionbridge (MAY 2021 - JUN 2022)
 Part time, remote work. Evaluation of Instagram and Facebook ads.
