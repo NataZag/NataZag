@@ -61,7 +61,7 @@ Belarusian: Native
 [![English](https://img.shields.io/badge/-English-2F4F4F?style=for-the-badge&logo=Etsy&logoColor=00e3e3)](https://raw.githubusercontent.com/NataZag/Resume/main/assets/images/projects/EF_SET_big.jpg)
 [![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=lightgreen)](https://github.com/NataZag/natazag.github.io/blob/main/assets/images/projects/Postman_Stepik_big.png)
 
-## Work Experience
+## QA Work Experience
 ### SmartApp (DEC 2022 - current time)
 Requirements Analysis
 
@@ -91,8 +91,8 @@ Analyzing product requirements. Creating testing documentation using testing tec
 ### Vadim Ksendzov (APR 2022 - JUL 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
-### Freelance
-#### Utest (APR 2021 - FEB 2022)
+## Freelance
+### Utest (APR 2021 - FEB 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques as Equivalence Classes, Boundary Values, Decision Table and Pairwise testing. Performing of test cases and analyze results of the test process. Experience with Devtools, Charles, Postman, SQL.
 
 ## Work Experience
