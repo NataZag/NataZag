@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-2F4F4F?style=for-the-badge&logo=Gmail&logoColor=orange)](mailto:kisel.natallia.86@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-2F4F4F?style=for-the-badge&logo=WhatsApp&logoColor=lightgreen)](https://wa.me/375295584214)
 
-A hardworking, reliable, meticulous QA Engineer is looking for the company of her dream. I can analyze requirements, write test documentation, conduct functional testing of web applications. Also, I have experience in testing WEB services via API, writing database queries using SQL, intercepting network traffic using Fiddler and Charles. And I know how to work with product versions using Git.
+I am a Quality Assurance Engineer at an international company, dedicated to ensuring the utmost product quality and customer satisfaction. My primary focus lies in testing web and mobile applications, and I bring extensive experience in testing both front-end and back-end technologies, including WP, Moodle, Laravel, and Shopify. Proficient in integration testing and skilled in conducting load tests, I excel in creating clear and structured test documentation for complex projects, starting from the ground up. A rapid learner of emerging technologies, I am keenly interested in advancing in the test automation field.
 
 ## Soft Skills
 
@@ -62,8 +62,21 @@ Belarusian: Native
 [![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=lightgreen)](https://github.com/NataZag/natazag.github.io/blob/main/assets/images/projects/Postman_Stepik_big.png)
 
 ## Hands-on Experience
+### Work Experience
+#### SmartApp (DEC 2022 - current time)
+Requirements Analysis
+Test Documentation Creation 
+Functional Testing of WEB Applications 
+UI/UX Design Testing
+Testing of Payment Systems 
+REST/SOAP API Testing
+Network Traffic Capture
+Database Verification 
+Performance/Load Testing
+SEO Testing
+
 ### Internships
-#### A1QA (JUL 2022 - SEP 2022)
+#### A1QA (JUN 2022 - SEPT 2022)
 Analyzing product requirements. Creating testing documentation using testing techniques(English/Russian languages). Web-applications functional, UI, Usability, Cross-platform testing. Usage of Jira, Virtual Box, Devtools, Postman and Swagger, Fiddler, SQL. Participation in daily meetings
 
 ### Studying Projects
